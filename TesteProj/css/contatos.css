@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.5410539215686274) 55%, rgba(0,212,255,1) 85%);
+    height: 100vh;
+}
+
+.fotos{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+
+.links{
+    width: 1px;
+    height: 1px;
+}
+
+.contatos{
+    display: flex;
+    justify-content: space-around;
+}
